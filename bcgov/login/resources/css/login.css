@@ -23,7 +23,7 @@
 
 #kc-header {
     padding-top: 10em;
-    padding-left: 10em;
+    padding-left: 8.5em;
 }
 
 #kc-header-wrapper {
@@ -50,7 +50,7 @@
     display: flex;
     flex-direction: column;
     /* background-color: limegreen; */
-    padding-left: 10em;
+    padding-left: 0em;
     width: 40%;
 }
 
@@ -65,6 +65,8 @@
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: flex-end;
+    padding-right: 10%;
 }
 
 .formLabel {
@@ -91,19 +93,17 @@
 }
 
 #kc-login {
-    vertical-align: top;
+    list-style-type: none;
     width: 5em;
-    height: 2em;
-    border: 0px;
-    padding: 0.25em 0em 0.25em 0;
+    height: 1.66em;
+    text-align: center;
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+    background: rgb(19, 117, 163);
+    font-family: "MyriadWebPro";
     font-size: 1em;
     color: white;
-    text-align: center;
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.33);
-    background: rgb(19, 117, 163);
-    border-bottom: 2px solid rgb(14, 90, 126);
-    box-shadow: inset 0 -2px rgb(14, 90, 126);
-    -webkit-box-shadow: inset 0 -2px rgb(12, 79, 110);
+    padding: 0.2em 0 0 0;
 }
 
 #kc-info {
