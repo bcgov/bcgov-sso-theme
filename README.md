@@ -2,9 +2,13 @@
 
 # About
 
-This repo contains the default RedHat Single Sign-On Themes as well as the custom `bcgov` theme. 
+This repo contains public facing RedHat Single Sign-On (SSO) components themed to better match standard British Columbia Government websites.
 
-## bcgov
+## How to Use
+
+Under Construction !!!
+
+*Tip*: Copy the theme to the default theme location in and then use the admin (web) interface to change the theme for your realm.
 
 ## How to Contribute
 
