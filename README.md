@@ -8,7 +8,7 @@ This repo contains public facing RedHat Single Sign-On (SSO) components themed t
 
 Under Construction !!!
 
-*Tip*: Copy the theme to the default theme location in and then use the admin (web) interface to change the theme for your realm.
+*Tip*: Copy the `bcgov` directory to the default theme location in SSO, then use the admin (web) interface to change the theme for your realm.
 
 ## How to Contribute
 
