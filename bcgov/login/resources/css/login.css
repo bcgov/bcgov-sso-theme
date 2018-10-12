@@ -128,7 +128,8 @@
 }
 
 #kc-social-providers a:hover, a:visited, a:link, a:active {
-    /* display: inline-block; */
+    cursor: pointer;
+    display: block;
     text-decoration: none;
     color: white;
 }
