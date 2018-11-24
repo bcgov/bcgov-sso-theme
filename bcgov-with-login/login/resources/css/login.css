@@ -47,8 +47,7 @@
 }
 
 #kc-form {
-    /* display: flex; */
-    display: none;
+    display: flex;
     flex-direction: column;
     /* background-color: limegreen; */
     padding-left: 0em;
@@ -108,7 +107,7 @@
 }
 
 #kc-info {
-    /* border-left: 1px solid lightslategray; */
+    border-left: 1px solid lightslategray;
     /* background-color: orange; */
     width: 20%;
 }
