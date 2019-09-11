@@ -1,4 +1,6 @@
+# :warning: This repostiory has been archive and its content has moved! :warning:
 
+see [bcgov/ocp-sso/extensions/themes](https://github.com/bcgov/ocp-sso/tree/master/extensions/themes)
 
 # About
 
